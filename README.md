@@ -4,9 +4,9 @@
 <hr>
 <p>Turtle is used for drawing the clock it is the same as a normal clock which is also used for measuring time.</p>
 <br>
+<hr>
+</h2>Code:<h2>
 <pre>
-Code:
-
 In the following code, we will import the turtle module from turtle import *, import turtle. The turtle() method is used to make objects.
 turtle.Screen() is used to show the screen on which we draw the shapes.
 clock.color(‘cyan’) is used to give the color to the clock.
@@ -20,3 +20,7 @@ clock.circle(7) is used to draw the circle with radius 7.
 clock.begin_fill() is used to start filling color in the clock.
 clock.end_fill() is used to end the filling color in the clock.
 </pre>
+  <hr>
+  <h2>Output:</h2>
+<p>
+After running the above code, we get the following output in which we can see the clock is drawn on the screen.</p>
