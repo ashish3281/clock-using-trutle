@@ -24,3 +24,5 @@ clock.end_fill() is used to end the filling color in the clock.
   <h2>Output:</h2>
 <p>
 After running the above code, we get the following output in which we can see the clock is drawn on the screen.</p>
+![Screenshot (331)](https://user-images.githubusercontent.com/92047366/183116572-9587418c-ab21-4078-9cd1-5e0647b6a606.png)
+![Screenshot (332)](https://user-images.githubusercontent.com/92047366/183116610-70fccb60-bc77-49cb-874e-a408a0df1349.png)
